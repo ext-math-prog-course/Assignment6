@@ -2,3 +2,11 @@ name = "Assignment6"
 uuid = "15bcc470-7986-4fc9-9d61-a0ddcb96253e"
 authors = ["Forrest Laine <forrest.laine@vanderbilt.edu>"]
 version = "0.1.0"
+
+[deps]
+HiGHS = "87dc4568-4c63-4d18-b0c0-bb2238e4078b"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+OSQP = "ab2f91bb-94b4-55e3-9ba0-7f65df51de79"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
