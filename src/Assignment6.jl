@@ -2,6 +2,7 @@ module Assignment6
 
 using JuMP
 using HiGHS
+using DataStructures
 using LinearAlgebra
 using SparseArrays
 using OSQP
